@@ -1,1 +1,2 @@
-[Threads & Chords](rigging-threads.md)
+[Threads & Chords](rigging-threads.md)  
+[Checklists](rigging-checklists.md)
