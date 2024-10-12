@@ -1,1 +1,1 @@
-[Rigging Threads](rigging-threads.md)
+[Threads & Chords](rigging-threads.md)
