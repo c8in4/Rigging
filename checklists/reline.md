@@ -21,13 +21,9 @@
      - [ ] stabilizers
      - [ ] steering lines
 
-- [ ] test list
-- [ ] test list item 2
-
 <script>
     const checkboxes = document.querySelectorAll('input[type="checkbox"]')
-
     checkboxes.forEach((checkbox) => {
       checkbox.removeAttribute("disabled")
     })
-  </script>
+</script>
