@@ -86,8 +86,8 @@ Nylon does well with some chemicals and not as well with others. Nylon thread ca
 **Average Thickness** 0.020in or 0.51mm  
 **Average Yards**: 125 per ounce (2,000 per Pound)  
 **Needles Sizes**: 140/22 to 180/24  
-**Use case**: medium weight sewing
-Examples:
+**Use case**: medium weight sewing  
+**Examples**:
 
 - tacking
 - container repair
